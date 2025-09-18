@@ -1,7 +1,5 @@
 # Hello, i am Anna
 
-![ME](https://github.com/Anna-Colberg/turbo-broccoli-test/blob/main/WhatsApp%20Image%202025-09-18%20at%2012.41.35.jpeg)
-
 ##### Web Devolepment neuefische - SHARKS
  > My name is Anna and i´m 30 years old.
 
@@ -23,19 +21,18 @@ My Hobbys:
 - draw
 - sport
 - puzzle
-- BROCCOLI
-  
+
 ---
 
 _I have the following driving class license:_
 
-[x] AM
+[ x ] AM
 
-[x] B
+[ x ] B
 
-[x] BE/C/C1/C1E/CE
+[ x ] BE/C/C1/C1E/CE
 
-[x] L/T
+[ x ] L/T
 
 **_I have a ADR license too_**
 
@@ -59,3 +56,4 @@ My Dogs are called:
 ![LEXA](https://github.com/Anna-Colberg/turbo-broccoli-test/blob/main/IMG_0097.jpeg)
 ![RAMIRA](https://github.com/Anna-Colberg/turbo-broccoli-test/blob/main/1000012976.jpg)
 ![BENJA](https://github.com/Anna-Colberg/turbo-broccoli-test/blob/main/1000012977.jpg)
+
