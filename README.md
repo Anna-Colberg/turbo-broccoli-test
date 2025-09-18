@@ -11,6 +11,10 @@ I love doing things with my family and working with animals.
 I served in the **_military_** from 2017 to 2025.
 In my free time, I also breed **_Sabris dogs._**
 
+I´m currently in a bootcamp for Web Devolepment by neuefische to learn the basics 
+of HTML, JS and CSS and am constantly continuing my education.
+
+
 ---
 
 My Hobbys:
@@ -20,6 +24,21 @@ My Hobbys:
 - BROCCOLI
   
 ---
+
+_I have the following driving class license:_
+
+[x] AM
+
+[x] B
+
+[x] BE/C/C1/C1E/CE
+
+[x] L/T
+
+**_I have a ADR license too_**
+
+---
+My Hobbys with my Dogs:
 
 My Dogs are called:
 
@@ -33,5 +52,4 @@ My Dogs are called:
 [My Dogs](https://www.xn--sabrisvondendrmlingswlfen-csch.de/unsere-hunde/)
 
 ---
-
 
