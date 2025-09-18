@@ -1,5 +1,7 @@
 # Hello, i am Anna
 
+
+
 ##### Web Devolepment neuefische - SHARKS
  > My name is Anna and i´m 30 years old.
 
@@ -53,3 +55,7 @@ My Dogs are called:
 
 ---
 
+
+![LEXA](https://github.com/Anna-Colberg/turbo-broccoli-test/blob/main/IMG_0097.jpeg)
+![RAMIRA](https://github.com/Anna-Colberg/turbo-broccoli-test/blob/main/1000012976.jpg)
+![BENJA](https://github.com/Anna-Colberg/turbo-broccoli-test/blob/main/1000012977.jpg)
